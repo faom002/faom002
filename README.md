@@ -1,7 +1,6 @@
 # Hi There I'm Faisal 😎
 
-<details>
-  <summary style="border: 1px solid black;">Frontend developer</summary>
+
 # Welcome to My README
 
 ## About Me
@@ -42,7 +41,7 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 
 Thank you for visiting my README, and I look forward to connecting with you!
 
-</details>
+
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=faom002&show_icons=true&theme=radical"/>
 <img align='left' width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faom002&layout=compact"/>

@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Faisal_jobb@outlook.com**
+- 📫 How to reach me **faisal0807@gmail.com**
 
 -  🧠 intern challenge at kahoot https://github.com/faom002/kahoot-intern-challenge
   

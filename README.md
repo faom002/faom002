@@ -3,13 +3,12 @@
 <img align="right" alt="faom002" height=250 width=300 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 
-- 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.**
+- 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **faisal0807@gmail.com**
+- 📫 How to reach me **faisal_jobb@outlook.com**
 
--  🧠 intern challenge at kahoot https://github.com/faom002/kahoot-intern-challenge
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway, I am on my second year to complete my bachelor at Kristiania University in Oslo.</h3>
-<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coder GIF" height=350 width=370 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+
 
 - 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.**
 
@@ -23,7 +24,8 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
 

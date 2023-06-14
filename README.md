@@ -2,7 +2,7 @@
 
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=faom002&show_icons=true&theme=radical"/>
-<img align='left' width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faom002&layout=compact"/>
+<img align='left' width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faom002&layout=compact"/>
 
 <h2 align='center' >Languages</h2>
 <div align='center'>

@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Faisal_jobb@outlook.com**
 
+-  🧠 intern challenge at kahoot https://github.com/faom002/kahoot-intern-challenge
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/faisal-omar-2592a022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal" height="30" width="40" /></a>

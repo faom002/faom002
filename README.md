@@ -2,10 +2,16 @@
 
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=faom002&show_icons=true&theme=radical"/>
-<img align='left' width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faom002&layout=compact"/>
-<img align='left' alt="NodeJS"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the badge&logo=node.js&logoColor=white"/>
-<img align='left' alt="Javascript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img  alt="Typescript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align='left' width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faom002&layout=compact"/>
+
+<h2 align='center' >Languages</h2>
+<div align='center'>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+
 
 
 # Welcome to My README
@@ -33,8 +39,8 @@ I have also been involved in extracurricular activities and internships challeng
 
 ## Skills
 
-- HTML5, CSS3, JavaScript
-- React, React Native
+- HTML5, CSS3, JavaScript, Typescript, NodeJS
+- React
 - UI/UX Design
 - Responsive Web Design
 - Version Control (Git)

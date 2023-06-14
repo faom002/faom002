@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">A passionate frontend and backend developer from Norway, I am on my last year to complete my bachelor at Kristiania University in Oslo.</h3>
+<h3 align="center">A passionate frontend and backend developer from Norway, I am on my last second year to complete my bachelor at Kristiania University in Oslo.</h3>
 <img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.**

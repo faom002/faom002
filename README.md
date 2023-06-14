@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway, I am on my second year to complete my bachelor at Kristiania University in Oslo.</h3>
-<img align="right" alt="Coder GIF" height=350 width=370 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img align="right" alt="Coder GIF" height=250 width=300 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 
 - 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.**

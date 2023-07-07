@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning Express.js and exploring Design Patterns in Node.js.
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **faisal_jobb@outlook.com**
 

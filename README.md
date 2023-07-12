@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">A passionate frontend and backend developer from Norway, I am on my second year to complete my bachelor at Kristiania University in Oslo.</h3>
+<h3 align="center">A passionate frontend and backend developer from Norway, I am on my third year to complete my bachelor at Kristiania University in Oslo.</h3>
 <img align="right" alt="faom002" height=250 width=300 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 

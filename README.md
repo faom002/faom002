@@ -3,11 +3,7 @@
 <img align="right" alt="faom002" height=250 width=300 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 
-- 🌱 I am currently learning Spring Boot framework and C language.
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **faisal_jobb@outlook.com**
+- 📫 **faisal_jobb@outlook.com**
 
   
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faisal Omar!</h1>
+<h1 align="center">Hi, I'm Faisal Omar</h1>
 <h3 align="center">Passionate Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">

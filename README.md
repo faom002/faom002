@@ -18,12 +18,12 @@
 
 ### About Me
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science at Kristiania University, Oslo.
-- 💼 Full-stack developer with a strong passion for creating robust web applications.
+- 🎓 Currently pursuing a Master's degree in Cyber security at University of Oslo, Oslo.
+- 💼 currently a Full-stack developer with a strong passion for creating robust web applications.
 - 💻 Proficient in a wide range of technologies, from frontend to backend.
 - ✨ Love contributing to open-source projects and solving real-world problems.
 - 🌐 Always eager to learn and explore new technologies and tools.
-
+- ✅️ Completed Bachelor's in computer science.
 ---
 
 ### Languages and Tools
@@ -39,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
